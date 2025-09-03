@@ -1,0 +1,10 @@
+@extends('layouts.main')
+@section('navbar')
+@include('partials.navbar')
+@endsection
+@section('content')
+    @include('content')
+@endsection
+@section('about')
+    @include('about')
+@endsection

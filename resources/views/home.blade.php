@@ -1,0 +1,22 @@
+@extends('layouts.main')
+@section('navbar')
+    @include('partials.navbar')
+@endsection
+@section('content')
+    @include('content')
+@endsection
+@section('category')
+    @include('category')
+@endsection
+@section('transactions')
+    @include('transactions')
+@endsection
+@section('budgets')
+    @include('budgets')
+@endsection
+@section('about')
+    @include('about')
+@endsection
+@section('reports')
+    @include('reports')
+@endsection
