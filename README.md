@@ -47,7 +47,14 @@ Beberapa route penting:
 > Untuk detail lengkap, lihat file [`routes/web.php`](routes/web.php).
 
 ## 📷 Screenshot
-*(tambahkan screenshot UI dashboard, form transaksi, laporan export di sini)*  
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/7dacf67a-497e-43b6-9413-f4a8ee175002" />
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/11eec2cf-957c-4778-9f3e-416676fe5fa9" />
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/f93ef099-c584-499e-b57b-a4299534c837" />
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/9223e6b1-e0ce-48b8-9c1d-bb5ee701b7e3" />
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/7f97f9a9-10d5-46f1-873c-db30ab9d5e7c" />
+<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/03d6b4fd-6764-49f6-9b6d-93c78ebf4c88" />
+<img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/1e9651a4-015c-4363-bd6a-2e9647097350" />
+
 
 ## 💡 Cara Menjalankan
 1. Clone repo ini:
